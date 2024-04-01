@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Aarobh Kumar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="images (1).jpg">
-<p align="left"> <img src="https://github.com/aarobhs087/aarobhs087/blob/main/images%20(1).jpg" /> </p>
+
+<!-- <p align="left"> <img src="https://github.com/aarobhs087/aarobhs087/blob/main/images%20(1).jpg" /> </p> -->
 
 - 🔭 I’m currently working on **E-Commerce Wbsites**
 
