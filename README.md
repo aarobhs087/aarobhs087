@@ -1,6 +1,6 @@
 ![logo](https://github.com/aarobhs087/aarobhs087/blob/main/inside.jpg)
 <h1 align="center">Hi 👋, I'm Aarobh Kumar</h1>
-<h3 align="center">A passionate MERN stack developer from India</h3>
+<h3 align="center">A passionate MERN Stack Developer from India</h3>
 <img align="right" alt="coding" width="400" src="images (1).jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarobhs087&label=Profile%20views&color=0e75b6&style=flat" alt="Aarobh" /> </p>
 <!-- <p align="left"> <img src="https://github.com/aarobhs087/aarobhs087/blob/main/images%20(1).jpg" /> </p> -->
